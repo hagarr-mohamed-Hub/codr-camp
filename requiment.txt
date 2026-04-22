@@ -1,0 +1,3 @@
+google.gnereativeal
+speach_recogn
+speach_recognition
